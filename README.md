@@ -14,11 +14,17 @@ MessageBoxManager.Cancel = "Cancel";
 MessageBoxManager.OK = "OK";
 
 MessageBoxManager.Yes= "Yes";
+
 MessageBoxManager.No= "No";
+
 MessageBoxManager.Abort= "Abort";
+
 MessageBoxManager.Ignore = "Ignore";
+
 MessageBoxManager.Retry = "Retry";
+
 MessageBoxManager.Register();
+
 _____________________________________________________________________________________________________________________________________________
 این dll برای C# Windows Forms Application طراحی شده است تا با استفاده از آن بتوانید دکمه های MessageBox را تغیر دهید به معنای بهتر شما می توانید متن از دکمه را تغیر دهید !
 
@@ -26,11 +32,19 @@ ________________________________________________________________________________
 
 نمونه کد استفاده از آن :
 MessageBoxManager.Unregister();
+
 MessageBoxManager.Cancel = “لغو”;
+
 MessageBoxManager.OK = “باشه”;
+
 MessageBoxManager.Yes= “بله”;
+
 MessageBoxManager.No= “خیر”;
+
 MessageBoxManager.Abort= “خروج”;
+
 MessageBoxManager.Ignore = “میدانم”;
+
 MessageBoxManager.Retry = “تلاش مجدد”;
+
 MessageBoxManager.Register();
