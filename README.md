@@ -8,8 +8,11 @@ The sample project and its code and its dll will be provided to you!
 Sample code to use it:
 
 MessageBoxManager.Unregister();
+
 MessageBoxManager.Cancel = "Cancel";
+
 MessageBoxManager.OK = "OK";
+
 MessageBoxManager.Yes= "Yes";
 MessageBoxManager.No= "No";
 MessageBoxManager.Abort= "Abort";
